@@ -24,7 +24,7 @@ This project analyzes retail sales data using MySQL and Power BI.
 
 ## Dashboard Preview
 
-![Dashboard](Images/Retail_Sales.png)
+![Retail_Sales_Dashboard](Images/Retail_Sales.png)
 
 ## Power BI Concepts Used
 - DAX Measures
