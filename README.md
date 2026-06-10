@@ -1,7 +1,7 @@
 # Retail Sales Analytics Dashboard
 
 ## Project Overview
-This project analyzes retail sales data using MySQL and Power BI.
+Retail Sales Analytics Dashboard using MySQL, SQL, and Power BI. Features KPI tracking, customer insights, sales trends, category analysis, DAX measures, and interactive business intelligence reporting.
 
 ## Tools Used
 - MySQL
